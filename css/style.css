@@ -314,7 +314,7 @@ font-family: 'Roboto', sans-serif; */
 }
 /* о нас */
 .about__us {
-  background-image: url(/img/about-fon.jpg);
+  background-image: url(../img/about-fon.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -422,7 +422,7 @@ font-family: 'Roboto', sans-serif; */
 
 .advantages {
   padding: 55px 0px 40px;
-  background-image: url(/img/adv-fon.jpg);
+  background-image: url(../img/adv-fon.jpg);
   min-height: 285px;
   background-size: cover;
   background-repeat: no-repeat;
